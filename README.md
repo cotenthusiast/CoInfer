@@ -26,7 +26,7 @@ The project is experimental and does not aim to replace production inference fra
 
 ## Related project
 
-[CoTorch](https://github.com/cotenthusiast/CoTorch) — An experimental machine learning framework built from first principles.
+[CoTorch](https://github.com/cotenthusiast/CoTorch): An experimental machine learning framework built from first principles.
 
 ## License
 
