@@ -24,9 +24,10 @@ The initial goal is to implement a minimal working inference pipeline and progre
 
 The project is experimental and does not aim to replace production inference frameworks.
 
-## Related project
+## Related projects
 
-[CoTorch](https://github.com/cotenthusiast/CoTorch): An experimental machine learning framework built from first principles.
+- [CoTorch](https://github.com/cotenthusiast/CoTorch): An experimental machine learning framework built from first principles.
+- [CoHarness](https://github.com/cotenthusiast/CoHarness): An experimental AI coding-agent harness exploring model integration, tool calling, context management, and autonomous execution.
 
 ## License
 
